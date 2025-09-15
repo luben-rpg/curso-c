@@ -12,10 +12,10 @@
     scanf("%i",&edad);
     if (edad >=18){
         if (strcmp(sexo, "masculino")==0){
-        printf("hola %s \n",nombre);
+        printf("hola %s \n",nombre);        
     } else{
         return 0;
     }
-
+    
     return 0;
 }*/

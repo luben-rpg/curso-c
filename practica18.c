@@ -1,7 +1,6 @@
 // sentencia switch
 /*
-    case etiqueta1;  sentencia1;break;
-    case etiqueta2;  sentencia2;break;
+    case etiqueta1;  sentencia1;break; //debenser etiquetas cortas ej: 1,2,3,4,'a','s'...etc
     case etiqueta3;  sentencia3;break;
     defeault: sentencias;
 */
